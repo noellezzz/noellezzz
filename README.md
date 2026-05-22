@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=✨+FULL+STACK+DEVELOPER+✨;💗+DESIGN+%26+FRONTEND+SPECIALIST+💗;🌟+Y2K+AESTHETIC+CODER+🌟;💖+BUILDING+BEAUTIFUL+EXPERIENCES+💖" alt="Typing SVG" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-FF1493?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/angelo-miguel-dacumos-030ez)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-FF1493?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-miguel-dacumos-030ez)
 [![Email Badge](https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dacumosmiguel@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=noellezzz&color=ff1493&style=for-the-badge&label=PROFILE+VIEWS" />
