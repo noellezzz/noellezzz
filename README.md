@@ -99,8 +99,8 @@ const aboutMe = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&title_color=FF1493&text_color=FFFFFF&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noellezzz&show_icons=true&theme=radical&title_color=FF1493&icon_color=FF69B4&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noellezzz&layout=compact&langs_count=8&theme=radical&title_color=FF1493&text_color=FFFFFF&bg_color=000000"/>
 
 </div>
 
