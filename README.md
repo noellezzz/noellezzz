@@ -106,7 +106,7 @@ const aboutMe = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noellezzz&theme=radical&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&background=000000)](https://git.io/streak-stats)
 
 </div>
 
@@ -116,7 +116,7 @@ const aboutMe = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&title_color=FF1493&text_color=FFFFFF&icon_color=FF69B4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noellezzz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&title_color=FF1493&text_color=FFFFFF&icon_color=FF69B4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
