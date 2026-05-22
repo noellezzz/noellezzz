@@ -126,7 +126,7 @@ const aboutMe = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=000000&color=FF1493&line=FF69B4&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noellezzz&bg_color=000000&color=FF1493&line=FF69B4&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -147,7 +147,7 @@ const aboutMe = {
 
 <div align="center">
 
-💼 **LinkedIn** → [Connect with me](www.linkedin.com/in/angelo-miguel-dacumos-030ez)  
+💼 **LinkedIn** → [Connect with me](https://www.linkedin.com/in/angelo-miguel-dacumos-030ez)  
 📧 **Email** → [Contact me Here](dacumosmiguel@gmail.com)    
 💗 **Based in** → Taguig City, Philippines 🇵🇭
 
